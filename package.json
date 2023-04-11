@@ -1,0 +1,11 @@
+{
+  "name": "bugreport-prettier-plugin-tailwindcss-in-combination-with-plugin-php",
+  "private": true,
+  "author": "Michael van Laar <michael@van-laar.de> (https://michaelvanlaar.com/)",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.19.4",
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.7",
+    "tailwindcss": "^3.3.1"
+  }
+}
